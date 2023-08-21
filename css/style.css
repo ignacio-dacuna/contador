@@ -1,0 +1,102 @@
+*{
+    font-family: sans-serif;
+    background-color: #A0E8AF;
+    color: white;
+}
+
+/* #EDEAD0        #FFCF56        #86BAA1           #3AB795              #1c5646*/ 
+
+.titulo{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.jugador1{
+    background-color: #86BAA1;
+    width: 200px;
+    height: 350px;
+    border-radius: 10px;
+}
+
+.jugador2{
+    background-color: #86BAA1;
+    width: 200px;
+    height: 350px;
+    border-radius: 10px;
+}
+
+.titulito{
+    background-color: #86BAA1;
+    display: flex;
+    justify-content: center;
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+    background-color: #86BAA1;
+}
+
+button{
+    background-color:  #3AB795;
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    border-width: 0px;
+}
+
+button:hover{
+    background-color:  #1c5646;
+}
+
+.cont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:150px;
+    background-color: #86BAA1;
+}
+
+.p{
+    background-color: #86BAA1;
+    font-size: xxx-large;
+}
+
+
+.grande{
+    font-size: xx-large;
+}
+
+.gra {
+    font-size: x-large;
+    width: 150px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.re{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.foot{
+    display: flex;
+    justify-content: center;
+}
